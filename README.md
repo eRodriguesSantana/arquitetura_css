@@ -6,5 +6,6 @@
   <li>Arquiteturas CSS simples e robusta.</li>
   <li>Boas práticas e metodologias sobre CSS.</li>
   <li>Site responsivo.</li>
+  <li>Metodologia BEM para nomeação de pastas, arquivos e classes css.</li>
 </ul>
 
